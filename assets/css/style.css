@@ -164,7 +164,8 @@
       }
       
       div.desc {
-        padding: 8px;
+        padding: 10px;
+        font-size: 95%;
         text-align: center;
       }
     .banners {
